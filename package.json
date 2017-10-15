@@ -1,0 +1,19 @@
+{
+  "name": "acl-graphql",
+  "version": "1.0.0",
+  "description": "graphql acl transpiler",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "acl",
+    "graphql",
+    "access",
+    "list",
+    "control",
+    "factory"
+  ],
+  "author": "Mehdi Shoushtari",
+  "license": "MIT"
+}
